@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 6.18.34.mshv2 Kernel Configuration
+# Linux/arm64 6.18.34.mshv1 Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="gcc (GCC) 13.2.0"
 CONFIG_CC_IS_GCC=y
@@ -10364,7 +10364,6 @@ CONFIG_ARM_GIC_V3=y
 CONFIG_ARM_GIC_ITS_PARENT=y
 CONFIG_ARM_GIC_V3_ITS=y
 CONFIG_ARM_GIC_V3_ITS_FSL_MC=y
-CONFIG_MSHV_GICV3_MSI=y
 CONFIG_ARM_GIC_V5=y
 CONFIG_IRQ_MSI_LIB=y
 # CONFIG_AL_FIC is not set
